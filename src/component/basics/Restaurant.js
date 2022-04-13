@@ -17,9 +17,6 @@ const uniqueList = [
 
 ];
 
-console.log(uniqueList);
-
-
 
 const Restaurant = () => {
   

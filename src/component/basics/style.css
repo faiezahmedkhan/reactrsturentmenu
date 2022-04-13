@@ -29,6 +29,8 @@
     grid-template-columns: repeat(3, minmax(300px, 500px));
     grid-gap: 50px;
     justify-content: space-around;
+    margin: auto 0;
+    padding: 0;
   }
   
   .card-container {
